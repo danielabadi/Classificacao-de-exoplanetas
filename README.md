@@ -16,3 +16,5 @@ Neste trabalho você deverá realizar uma comparação entre seis métodos de cl
 Você não precisa implementar os métodos listados acima. Todos os métodos listados acima estão disponíveis na biblioteca scikit-learn da linguagem Python. Você também pode utilizar bibliotecas auxiliares, para gerar gráficos e de operações matemáticas por exemplo, desde que elas não implementem o experimento em si.
 
 Para cada um dos experimentos realizados você deverá explicar qual o objetivo do experimento (qual o significado do hiperparâmetro que está sendo variado por exemplo) e incluir uma interpretação dos resultados com base nos conceitos teóricos estudados na disciplina. Ao final deverá ser feita uma comparação entre a performance dos métodos, incluindo curva ROC e as métricas de precisão e revocação (precision e recall).
+
+Mais detalhes no arquivo de especificação.
